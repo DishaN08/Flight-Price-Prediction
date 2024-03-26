@@ -16,6 +16,13 @@
 ### 2.Run the ipynb file
 ### 3. Use streamlit and heroku for the deployment
 
-### Any issue or requirement if necessary , you can raise a request !
+# Snapshots of Project
+![image](https://github.com/DishaN08/Flight-Price-Prediction/assets/87025050/7db2d0e2-771e-437e-a193-5aaec6f3959b)
+![image](https://github.com/DishaN08/Flight-Price-Prediction/assets/87025050/44756230-35c3-44b3-ab21-fb5b196238c0)
+
+
+
+
+
 
 # Thank you !
